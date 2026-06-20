@@ -14,5 +14,4 @@ g++ weather_forecast.cpp -o weather
 ## Коммиты по этапам
 - Initial commit
 - Добавлен основной код
-- Добавлены тесты
 - Подготовлен отчёт
